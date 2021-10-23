@@ -62,3 +62,22 @@ The NSP also uses the cross-entropy loss between original label and the predicte
 
 ### Useful Ressources
 - BERT Embedding: https://medium.com/@_init_/why-bert-has-3-embedding-layers-and-their-implementation-details-9c261108e28a
+```bibtex
+@article{DBLP:journals/corr/abs-1810-04805,
+  author    = {Jacob Devlin and
+               Ming{-}Wei Chang and
+               Kenton Lee and
+               Kristina Toutanova},
+  title     = {{BERT:} Pre-training of Deep Bidirectional Transformers for Language
+               Understanding},
+  journal   = {CoRR},
+  volume    = {abs/1810.04805},
+  year      = {2018},
+  url       = {http://arxiv.org/abs/1810.04805},
+  archivePrefix = {arXiv},
+  eprint    = {1810.04805},
+  timestamp = {Tue, 30 Oct 2018 20:39:56 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1810-04805.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
