@@ -61,6 +61,7 @@ The MLM objective is the cross-entropy loss between the original token and the p
 The NSP also uses the cross-entropy loss between original label and the predicted label.
 
 ### Useful Ressources
+- https://github.com/dreamgonfly/BERT-pytorch
 - BERT Embedding: https://medium.com/@_init_/why-bert-has-3-embedding-layers-and-their-implementation-details-9c261108e28a
 ```bibtex
 @article{DBLP:journals/corr/abs-1810-04805,
